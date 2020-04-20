@@ -1,2 +1,3 @@
 # blackjack
-Blackjackgame
+
+A very simple blackjack game!
