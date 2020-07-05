@@ -35,7 +35,7 @@ def blackjack_sum(thecards):
             player_card_sum -= 10
     return player_card_sum
 
-def start_game(layer_name, player_cash):
+def start_game(player_name, player_cash):
     card_list = ['A'] + list(range(2,11)) +  ['J', 'Q', 'K']
     suit_list = ['♠', '♥', '♣', '♦']
     deck_list = [ ]
